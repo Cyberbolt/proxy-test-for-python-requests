@@ -13,9 +13,11 @@ Python3使用Requests抓取和检测电光代理API,并查询ip代理是否成�
 
 4.激活后安装所需依赖 pip install -r requirements.txt(Linux和MacOS使用 pip3 install -r requirements.txt)
 
-5.运行该程序即可 python ip.py(Linux和MacOS使用 python3 ip.py)
+5.编辑ip.py文件，将64行链接改为您获取的代理API地址
 
-6.运行程序后，如果您的API设置返回http代理，请选择1，如果设置返回https代理，请选择2
+6.运行该程序即可 python ip.py(Linux和MacOS使用 python3 ip.py)
+
+7.运行程序后，如果您的API设置返回http代理，请选择1，如果设置返回https代理，请选择2
 
 
 源码来自电光笔记官网测试 https://www.cyberlight.xyz/
