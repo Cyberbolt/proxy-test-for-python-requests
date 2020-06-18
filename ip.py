@@ -61,7 +61,7 @@ class Ip:
     #构造方法
     def __init__(self, proxy_type):
         #初始化电光代理API（JSON格式） #此API仅为测试链接，需要输入实际有效API
-        self.api_json = 'https://api.bug.im/oNtl30618YdXol/1000-china-0-http-high_anonymous-json'
+        self.api_json = 'https://api.super.xyz/oNtl30618YdXol/1000-china-0-http-high_anonymous-json'
         self.ips = [] #储存有效ip的列表
         self.proxy_type = proxy_type #代理类型
 
