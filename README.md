@@ -1,4 +1,6 @@
 # proxy-test-for-requests
+注：该源码对Linux原生支持，Windows可能不会区分字体颜色
+
 Python3使用Requests抓取和检测电光代理API,并查询ip代理是否成功
 
 #使用方法（以没有安装Python3虚拟环境的Windows为例）
