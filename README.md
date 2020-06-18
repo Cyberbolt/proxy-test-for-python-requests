@@ -20,4 +20,7 @@ Python3使用Requests抓取和检测电光代理API,并查询ip代理是否成�
 7.运行程序后，如果您的API设置返回http代理，请选择1，如果设置返回https代理，请选择2
 
 
+注意：该代码后半部分只能检测http代理的地址，若是https代理，请自行更换129行测试源地址为https可用的检测地址
+
+
 源码来自电光笔记官网测试 https://www.cyberlight.xyz/
